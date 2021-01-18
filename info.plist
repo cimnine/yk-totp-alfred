@@ -409,6 +409,8 @@ More information, source code and updates at https://github.com/cimnine/yk-totp-
 			<integer>390</integer>
 		</dict>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
 	<string>0.1.0</string>
 	<key>webaddress</key>

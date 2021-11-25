@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export PATH="$PATH:/usr/local/bin"
+export PATH="$PATH:/usr/local/bin:/opt/homebrew/bin/"
 
 if ! hash jq 2>/dev/null; then
   echo "Please install 'jq'."
